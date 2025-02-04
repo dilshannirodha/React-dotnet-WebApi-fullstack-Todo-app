@@ -79,7 +79,7 @@ const TodoApp = () => {
                                     onChange={(e) => setEditingText(e.target.value)}
                                     className="todo-edit-input"
                                 />
-                                <button onClick={() => handleSaveEdit(todo.id, todo)} className="todo-save-button">
+                                <button onClick={() => handleSaveEdit(todo.id,todo)} className="todo-save-button">
                                     Save
                                 </button>
                             </>
