@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\github projects\\React-dotnet-WebApi-fullstack-Todo-app\\TodoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F38FABA-F16D-44E9-9746-976F62EC1B5B}|TodoApi.csproj|d:\\github projects\\react-dotnet-webapi-fullstack-todo-app\\todoapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F38FABA-F16D-44E9-9746-976F62EC1B5B}|TodoApi.csproj|solutionrelative:controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F38FABA-F16D-44E9-9746-976F62EC1B5B}|TodoApi.csproj|d:\\github projects\\react-dotnet-webapi-fullstack-todo-app\\todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7F38FABA-F16D-44E9-9746-976F62EC1B5B}|TodoApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F38FABA-F16D-44E9-9746-976F62EC1B5B}|TodoApi.csproj|d:\\github projects\\react-dotnet-webapi-fullstack-todo-app\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F38FABA-F16D-44E9-9746-976F62EC1B5B}|TodoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F38FABA-F16D-44E9-9746-976F62EC1B5B}|TodoApi.csproj|d:\\github projects\\react-dotnet-webapi-fullstack-todo-app\\todoapi\\migrations\\20250204131110_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F38FABA-F16D-44E9-9746-976F62EC1B5B}|TodoApi.csproj|solutionrelative:migrations\\20250204131110_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F38FABA-F16D-44E9-9746-976F62EC1B5B}|TodoApi.csproj|d:\\github projects\\react-dotnet-webapi-fullstack-todo-app\\todoapi\\data\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F38FABA-F16D-44E9-9746-976F62EC1B5B}|TodoApi.csproj|solutionrelative:data\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F38FABA-F16D-44E9-9746-976F62EC1B5B}|TodoApi.csproj|d:\\github projects\\react-dotnet-webapi-fullstack-todo-app\\todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F38FABA-F16D-44E9-9746-976F62EC1B5B}|TodoApi.csproj|solutionrelative:models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "D:\\github projects\\React-dotnet-WebApi-fullstack-Todo-app\\TodoApi\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TodoController.cs",
+              "ToolTip": "D:\\github projects\\React-dotnet-WebApi-fullstack-Todo-app\\TodoApi\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "Controllers\\TodoController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA+wCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:42:16.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250204131110_InitialCreate.cs",
+              "DocumentMoniker": "D:\\github projects\\React-dotnet-WebApi-fullstack-Todo-app\\TodoApi\\Migrations\\20250204131110_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250204131110_InitialCreate.cs",
+              "ToolTip": "D:\\github projects\\React-dotnet-WebApi-fullstack-Todo-app\\TodoApi\\Migrations\\20250204131110_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250204131110_InitialCreate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:11:11.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\github projects\\React-dotnet-WebApi-fullstack-Todo-app\\TodoApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\github projects\\React-dotnet-WebApi-fullstack-Todo-app\\TodoApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:05:02.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\github projects\\React-dotnet-WebApi-fullstack-Todo-app\\TodoApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\github projects\\React-dotnet-WebApi-fullstack-Todo-app\\TodoApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T13:01:01.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoContext.cs",
+              "DocumentMoniker": "D:\\github projects\\React-dotnet-WebApi-fullstack-Todo-app\\TodoApi\\Data\\TodoContext.cs",
+              "RelativeDocumentMoniker": "Data\\TodoContext.cs",
+              "ToolTip": "D:\\github projects\\React-dotnet-WebApi-fullstack-Todo-app\\TodoApi\\Data\\TodoContext.cs",
+              "RelativeToolTip": "Data\\TodoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T12:56:07.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "D:\\github projects\\React-dotnet-WebApi-fullstack-Todo-app\\TodoApi\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "Models\\TodoItem.cs",
+              "ToolTip": "D:\\github projects\\React-dotnet-WebApi-fullstack-Todo-app\\TodoApi\\Models\\TodoItem.cs",
+              "RelativeToolTip": "Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T12:52:23.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
